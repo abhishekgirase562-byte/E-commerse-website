@@ -1,5 +1,4 @@
 🛍️ E-Commerce Website
-📌 Description
 
 Welcome to my E-Commerce Website! 🛒
 
